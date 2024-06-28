@@ -1,1 +1,3 @@
 # Bubble Card
+
+for some reason, my HACS doesn't let me install the integration. Simply emptying this README file resolved the issue ...
